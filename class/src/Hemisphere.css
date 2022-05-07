@@ -1,0 +1,21 @@
+.Northern {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    background-color: pink;
+    
+}
+
+.image{
+    height:220px;
+    
+}
+.Southern {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    background-color: red;
+    
+}
